@@ -4,7 +4,7 @@
     <set>
       <name>PTD</name>
       <longname>Pokemon TCG Doubles</longname>
-      <settype>PKE</settype>
+      <settype>PTD</settype>
     </set>
   </sets>
   <cards>
@@ -150,7 +150,7 @@ Retreat — {C}</text>
       <text>AB — Mount
 • Once during your turn, if Absol is in your active spot, you may play a Supporter card from your hand. If you do, Absol can’t attack or retreat this turn.
 {D} — Catastrophe Vision— 10
-• Look at the top four cards of your opponent’s deck. Put them back in any order.
+• Look at the top three cards of your opponent’s deck. Put them back in any order.
 Retreat — {C}</text>
     </card>
     <card>
@@ -164,8 +164,8 @@ Retreat — {C}</text>
         <maintype>Pokemon</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>DD — Apocalypse Vision— 70
-• Look at the top four cards of your opponent’s deck. Discard one of them and put the rest back in any order.
+      <text>DD — Apocalypse Vision— 100
+• Look at the top three cards of your opponent’s deck. Discard one of them and put the rest back in any order.
 Retreat — {C}</text>
     </card>
     <card>
@@ -548,7 +548,7 @@ Search your deck for an Energy, reveal it, and put it into your hand.</text>
         <maintype>Trainer</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Your opponent discards a card from their hand.</text>
+      <text>Each player discards a card from their hand.</text>
     </card>
     <card>
       <name>Timeless Murkrow</name>
@@ -561,10 +561,9 @@ Search your deck for an Energy, reveal it, and put it into your hand.</text>
         <maintype>Pokemon</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{D} — Snatch
-• Your opponent discards a card.
-DDC — Gaze Down — 120-
-• This attack deals 10 less damage for each card in your opponent’s hand.
+      <text>{D} — Taunt —
+• During your opponent’s next turn, their attacks must attack Timeless Murkrow if able.
+DC — Shadow Peck — 30
 Retreat — {C}</text>
     </card>
     <card>
@@ -578,8 +577,10 @@ Retreat — {C}</text>
         <maintype>Pokemon</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>DD — Freezing Claws — 20
-• Discard an Energy from the attacked Pokemon.
+      <text>{D} — Snatch
+• Your opponent discards a card.
+DC — Erosion Slash — 100-
+• This attack deals 10 less damage for each card in your opponent’s hand.
 Retreat — {C}</text>
     </card>
     <card>
@@ -1374,8 +1375,8 @@ Retreat — CC</text>
         <maintype>Pokemon</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>CC — Swarming Bites — 40+
-• This attack deals 40 more damage for each Rattata and Raticate on your bench.
+      <text>CC — Swarming Bites — 30+
+• This attack deals 30 more damage for each Rattata and Raticate on your bench.
 Retreat — {C}</text>
     </card>
     <card>
