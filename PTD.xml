@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>PTD</name>
+      <longname>Pokemon TCG Doubles</longname>
+      <settype>PKE</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Carnivine</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{G} — Dissolving Spray — 10
+• During your opponent’s next turn, they can’t play any Item cards from their hand.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Chimchar</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Infernal Ambush
+• Once during your turn, if Chimchar is on your bench, you may put 1 damage counter on 1 of your opponent’s Pokemon.
+{R} — Inflammatory Punch — 10+
+• This attack deals 10 more damage for each of your opponent’s Pokemon that is burned.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Monferno</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Infernal Ambush
+• Once during your turn, if Monferno is on your bench, you may put 2 damage counters on 1 of your opponent’s Pokemon.
+RR — Inflammatory Punch — 30+
+• This attack deals 30 more damage for each of your opponent’s Pokemon that is burned.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Infernape</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Infernal Ambush
+• Once during your turn, if Infernape is on your bench, you may put 3 damage counters on 1 of your opponent’s Pokemon. If that Pokemon is in the Active Spot, that Pokemon is now burned.
+RRR — Inflammatory Punch — 50+
+• This attack deals 50 more damage for each of your opponent’s Pokemon that is burned.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Magnemite</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>L</manacost>
+        <cmc>1</cmc>
+        <type>Commonplace Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{L} — Minishock — 10
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Magneton</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>L</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>LC — Trishock — 30
+• This attack can be used 2 additional times in your attack phase.
+Retreat — CCC</text>
+    </card>
+    <card>
+      <name>Magnezone</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>L</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>LCC — Trishock — 40
+• This attack can be used 2 additional times in your attack phase.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Timeless Abra</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>P</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Teleporter
+• Once during your turn, if this Pokemon is in the Active Spot, you may shuffle it and all attached cards into your deck.
+{P} — Psychic Swirl
+• Put 4 damage counters on each Pokemon in the Active Spot.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Absol</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Mount
+• Once during your turn, if Absol is in your active spot, you may play a Supporter card from your hand. If you do, Absol can’t attack or retreat this turn.
+{D} — Catastrophe Vision— 10
+• Look at the top four cards of your opponent’s deck. Put them back in any order.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>True Absol</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon - EX</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DD — Apocalypse Vision— 70
+• Look at the top four cards of your opponent’s deck. Discard one of them and put the rest back in any order.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Great Ball</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Item</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You can use this card only if you put 2 cards from your discard pile into your Lost Zone.
+Search your deck for an Evolution Pokemon, reveal it, and put it into your hand. Then, shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Master Ball</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Item</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You can use this card only if you discard 3 other cards from your hand.
+Search your deck for a Pokemon, an Item, and a Basic Energy, reveal them, and put them into your hand. Then, shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Nest Ball</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Item</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Search your deck for a Basic Pokemon with 70 HP or less and put it onto your Bench. Then, shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Poke Ball</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Item</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You can use this card only if you put 2 cards from your discard pile into your Lost Zone.
+Search your deck for a Basic Pokemon and put it onto your Bench. Then, shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Ultra Ball</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Item</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You can use this card only if you discard 2 other cards from your hand.
+Search your deck for a Pokemon, reveal it, and put it into your hand. Then, shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Realm of Arceus</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Stadium</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Once during each player’s turn, that player may shuffle 1 card from their discard pile into their deck.</text>
+    </card>
+    <card>
+      <name>Arceus&apos;s Guidance</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Supporter</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You can use this card only if you discard 1 other card from your hand.
+Shuffle up to 3 cards from your discard pile into your deck.</text>
+    </card>
+    <card>
+      <name>Expendable Personnel</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Supporter</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw three cards.</text>
+    </card>
+    <card>
+      <name>Groudon Avatar</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Supporter</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Put 3 damage counters on each Pokemon in play.</text>
+    </card>
+    <card>
+      <name>Kyogre Avatar</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Supporter</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Discard all energy from all Active Pokemon.</text>
+    </card>
+    <card>
+      <name>Team Cleanse Grunt</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Supporter</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Your opponent reveals their hand. Choose Pokemon, Basic Energy, Special Energy, Item, Supporter, or Stadium. Your opponent discards a card of that kind.</text>
+    </card>
+    <card>
+      <name>Absol Link Energy</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Energy - Special</type>
+        <maintype>Energy</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This card provides {D} energy.
+Your turn doesn’t end when the Pokemon this energy is attached to evolves into True Absol.</text>
+    </card>
+    <card>
+      <name>Timeless Machop</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>F</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Shove
+• Once during your turn, if this Pokemon is in the Active Spot, you may discard an energy card from this Pokemon. If you do, choose one of your opponent’s Pokemon that’s in the Active Spot. They swap it with one of their Benched Pokemon.
+{F} — Punch — 20
+Retreat — CR</text>
+    </card>
+    <card>
+      <name>Basic Grass Energy</name>
+      <set rarity="">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Energy - Basic</type>
+        <maintype>Energy</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This card provides {G} energy.</text>
+    </card>
+    <card>
+      <name>Basic Fire Energy</name>
+      <set rarity="">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Energy - Basic</type>
+        <maintype>Energy</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This card provides {R} energy.</text>
+    </card>
+    <card>
+      <name>Basic Water Energy</name>
+      <set rarity="">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Energy - Basic</type>
+        <maintype>Energy</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This card provides {W} energy.</text>
+    </card>
+    <card>
+      <name>Basic Lightning Energy</name>
+      <set rarity="">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Energy - Basic</type>
+        <maintype>Energy</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This card provides {L} energy.</text>
+    </card>
+    <card>
+      <name>Basic Fighting Energy</name>
+      <set rarity="">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Energy - Basic</type>
+        <maintype>Energy</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This card provides {F} energy.</text>
+    </card>
+    <card>
+      <name>Basic Psychic Energy</name>
+      <set rarity="">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Energy - Basic</type>
+        <maintype>Energy</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This card provides {P} energy.</text>
+    </card>
+    <card>
+      <name>Basic Metal Energy</name>
+      <set rarity="">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Energy - Basic</type>
+        <maintype>Energy</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This card provides {M} energy.</text>
+    </card>
+    <card>
+      <name>Basic Darkness Energy</name>
+      <set rarity="">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Energy - Basic</type>
+        <maintype>Energy</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This card provides {D} energy.</text>
+    </card>
+    <card>
+      <name>Myth Cleanser</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>CCC — Legend Slaughter — 100+
+• This attack deals 200 more damage to Pokemon EX.
+CCCCC — Slay the Stars
+• All Pokemon EX are Knocked Out. You can only use this attack once per game.
+Retreat — CCC</text>
+    </card>
+    <card>
+      <name>Celebi</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon - EX</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Temporal Safeguard
+• When this Pokemon is Knocked Out, take an extra turn after this one, during which you can’t attack.
+GC — Stabilize Time —
+• During your opponent’s next turn, if this Pokemon is Knocked Out, your opponent takes one fewer prize card.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Professor&apos;s Research</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Supporter</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Discard your hand, then draws seven cards.</text>
+    </card>
+    <card>
+      <name>Switch</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Item</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Switch your Active Pokemon with 1 of your Benched Pokemon.</text>
+    </card>
+    <card>
+      <name>Hired Goons</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Supporter</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Choose 1 of your opponent’s Pokemon that’s in the Active Spot. They swap it with one of their Benched Pokemon.</text>
+    </card>
+    <card>
+      <name>Energy Gather</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Item</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You can use this card only if you discard 1 other card from your hand.
+Search your deck for an Energy, reveal it, and put it into your hand.</text>
+    </card>
+    <card>
+      <name>Unlucky Coin</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Item</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Your opponent discards a card from their hand.</text>
+    </card>
+    <card>
+      <name>Timeless Murkrow</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{D} — Snatch
+• Your opponent discards a card.
+DDC — Gaze Down — 120-
+• This attack deals 10 less damage for each card in your opponent’s hand.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Timeless Sneasel</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DD — Freezing Claws — 20
+• Discard an Energy from the attacked Pokemon.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Pokemon Research Foundation</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Stadium</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Once during each player’s turn, that player may reveal the top card of their deck. If it’s a Pokemon, that player puts it into their hand.</text>
+    </card>
+    <card>
+      <name>CRA Containment Facility</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Stadium</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>The Retreat Cost of each Pokemon with an ability in play is CC more.</text>
+    </card>
+    <card>
+      <name>Team Cleanse Admin Aeria</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Supporter</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Heal all damage from your Stage 2 Pokemon in play.
+If you have a Rayquaza in your discard pile, your Team Cleanse Pokemon deal 50 more damage with their attacks this turn.</text>
+    </card>
+    <card>
+      <name>Team Cleanse Admin Pyren</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Supporter</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw two cards, then each player discards two cards.
+If you have a Groudon in your discard pile, your Team Cleanse Pokemon deal 50 more damage with their attacks this turn.</text>
+    </card>
+    <card>
+      <name>Team Cleanse Admin Wilere</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Supporter</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player returns both of their Active Pokemon to their hand.
+If you have a Kyogre in your discard pile, your Team Cleanse Pokemon deal 50 more damage with their attacks this turn.</text>
+    </card>
+    <card>
+      <name>Team Cleanse Pyren&apos;s Charmander</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{R} — Cleansing Fire — 10+
+• This attack deals 10 more damage for each Team Cleanse Pokemon on your Bench.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Team Cleanse Pyren&apos;s Charmeleon</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>RR — Cleansing Fire — 20+
+• This attack deals 20 more damage for each Team Cleanse Pokemon on your Bench.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Team Cleanse Pyren&apos;s Charizard</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>RRR — Cleansing Fire — 30+
+• This attack deals 30 more damage for each Team Cleanse Pokemon on your Bench.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Team Cleanse Aeria&apos;s Bulbasaur</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{G} — Cleansing Pollen — 
+• Heal 10 damage from one of your Active Pokemon for each Team Cleanse Pokemon on your Bench.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Team Cleanse Aeria&apos;s Ivysaur</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>GG — Cleansing Pollen — 
+• Heal 20 damage from one of your Active Pokemon for each Team Cleanse Pokemon on your Bench.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Team Cleanse Aeria&apos;s Venusaur</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>GGG — Cleansing Pollen — 
+• Heal 30 damage from one of your Active Pokemon for each Team Cleanse Pokemon on your Bench.
+Retreat — CCC</text>
+    </card>
+    <card>
+      <name>Team Cleanse Wilere&apos;s Squirtle</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{W} — Cleansing Tide — 
+• Put 1 damage counter on one of your opponent’s Benched Pokemon for each Team Cleanse Pokemon on your Bench.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Team Cleanse Wilere&apos;s Wartortle</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{W} — Cleansing Tide — 
+• Put 2 damage counters on one of your opponent’s Benched Pokemon for each Team Cleanse Pokemon on your Bench.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Team Cleanse Wilere&apos;s Blastoise</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{W} — Cleansing Tide — 
+• Put 3 damage counters on one of your opponent’s Benched Pokemon for each Team Cleanse Pokemon on your Bench.
+Retreat — CCC</text>
+    </card>
+    <card>
+      <name>Rayquaza</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>A</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon - EX</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{G} — Dragon Growth — 20
+• Heal 20 damage from Rayquaza.
+GGG — Ultimate Balance — 300
+• Rayquaza is Knocked Out. Your opponent takes one fewer Prize card from this Knock Out.
+Retreat — </text>
+    </card>
+    <card>
+      <name>Groudon</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>F</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon - EX</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{R} — Earth Scales — 20
+• Groudon takes 20 less damage from attacks during your opponent’s next turn.
+RRR — Ultimate Quake — 300
+• Groudon is Knocked Out. Your opponent takes one fewer Prize card from this Knock Out.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Kyogre</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon - EX</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{W} — Depth Force — 40
+WWW — Ultimate Flood — 300
+• Kyogre is Knocked Out. Your opponent takes one fewer Prize card from this Knock Out.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Team Cleanse&apos;s Farfetch&apos;d</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Commonplace Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>CC — Cleansing Leek — 10
+Retreat — </text>
+    </card>
+    <card>
+      <name>Team Clease Headquarters</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Stadium</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Team Cleanse Pokemon get +30 HP.
+Stage 2 Pokemon get +10 HP.</text>
+    </card>
+    <card>
+      <name>Rayquaza Avatar</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Trainer - Supporter</type>
+        <maintype>Trainer</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Heal 30 damage from each Pokemon in play.</text>
+    </card>
+    <card>
+      <name>Annihilape</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>F</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Push
+• Once per turn, if Annihilape is on your bench, you may switch Annihilape with one of your active Pokemon. If you do, put 2 damage counters on that Pokemon.
+FF — Rage Fist — 80+
+• If this Pokemon entered an active spot this turn, this attack does 50 more damage.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Arbok</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{D} — Toxic Injection — 30
+• The attacked Pokemon is now Poisoned and Asleep.
+DCC — Venoshock — 40+
+• This attack deals 40 more damage for each status condition affecting the attacked Pokemon.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Beedrill</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Merciless
+• This Pokemon deals 30 more damage with its attacks to poisoned Pokemon.
+DD — Poison Jab — 40
+• The attacked Pokemon is now poisoned. Put 3 more damage counters on it during Pokemon checkup.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Clefable</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>P</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>PP — Starblast — 40
+• Draw two cards.
+PPC — Star Force — 40+
+• This attack does 10 more damage for each card in your hand.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Clefairy</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>P</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{P} — Star Drop — 20
+• Draw a card.
+PPC — Star Force — 20+
+• This attack does 10 more damage for each card in your hand.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Cleffa</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>P</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Star Draw — 
+• Draw cards until you have 6 cards in hand.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Crobat</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DD — Sonic Gale — 50
+• The attacked Pokemon is now confused. Flip a coin. If heads, the opponent’s other active Pokemon is now confused.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Diglett</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>F</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>FC — Dig — 30
+• Flip a coin. If heads, prevent all damage and effects of attacks from your opponent’s active Pokemon until your next turn.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Dugtrio</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>F</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>FC — Dig — 60
+• Flip a coin. If heads, prevent all damage and effects of attacks from your opponent’s active Pokemon until your next turn.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Ekans</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{D} — Poison Fang — 10
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Fearow</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Pecking Spree
+• When you play this Pokemon onto one of your Pokemon to evolve it, put 3 damage counters on your opponent’s active Pokemon.
+{C} — Drill Peck — 60
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Golbat</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DD — Sonic Blast — 20
+• The attacked Pokemon is now confused.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Igglybuff</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Failure Song — 
+• Flip a coin. If heads, choose an active Pokemon. That Pokemon is now confused.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Jigglypuff</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Sleepy Tune — 20
+• The attacked Pokemon is now asleep.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Kakuna</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Hard Shell
+• This Pokemon takes 20 less damage from attacks.
+{D} — Poison Powder — 
+• Your opponent’s active Pokemon are now poisoned.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Mankey</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>F</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Push
+• Once per turn, if Mankey is on your bench, you may switch Mankey with one of your active Pokemon. If you do, put 2 damage counters on that Pokemon.
+{F} — Flying Kick — 10+
+• If this Pokemon entered an active spot this turn, this attack does 10 more damage.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Meowth</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Covet — 
+• Draw a card.
+CC — Scratch — 30
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Nidoking</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DDC — Bonded Horn — 80+
+• If Nidoqueen is your other active Pokemon, this attack does 60 more damage, and the attacked Pokemon is now poisoned. Put 3 more damage counters on that Pokemon during Pokemon checkup.
+Retreat — CCCC</text>
+    </card>
+    <card>
+      <name>Nidoqueen</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>F</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>FFC — Bonded Slam — 80+
+• If your other active Pokemon is Nidoking, this attack does 60 more damage, and the attacked Pokemon is now paralyzed.
+Retreat — CCCC</text>
+    </card>
+    <card>
+      <name>Nidoran F</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>F</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{F} — Pin Puncture — 10
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Nidoran M</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{D} — Needle Stab — 10
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Nidorina</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>F</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>FF — Bonded Slam — 30+
+• If Nidorino is your other active Pokemon, this attack does 30 more damage.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Nidorino</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DD — Bonded Horn — 30+
+• If Nidorina is your other active Pokemon, this attack does 20 more damage, and the attacked Pokemon is now poisoned.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Persian</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>CC — Return — 30
+• Draw cards until you have 6 cards in your hand.
+CC — Fury Swipes — 30
+• This attack can be used 2 additional times in your attack phase.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Pichu</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>L</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{L} — Static Shock — 30
+• This Pokemon deals 10 damage to itself.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Pidgeot</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Mount
+• Once during your turn, if Pidgeot is in your active spot, you may play a Supporter card from your hand. If you do, Pidgeot can’t attack or retreat this turn.
+CC — Hurricane — 100
+Retreat — </text>
+    </card>
+    <card>
+      <name>Pidgeotto</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Air Mail
+• Once per turn, you may look at the top two cards of your deck. Put one of them into your hand, and the other on the bottom of your deck.
+CC — Shredding Gust — 40
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Pidgey</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Gust — 10
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Pikachu</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>L</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{L} — Static charge — 
+• Search your deck for a {L} energy and attach it to this Pokemon. Then, shuffle your deck.
+LL — Thunderbolt — 70
+• Discard an energy from this Pokemon.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Primeape</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>F</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Push
+• Once per turn, if Primeape is on your bench, you may switch Primeape with one of your active Pokemon. If you do, put 2 damage counters on that Pokemon.
+FF — Rage Fist — 50+
+• If this Pokemon entered an active spot this turn, this attack does 30 more damage.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Raichu</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>L</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{L} — Static Buildup — 10
+• Search your deck for a {L} energy and attach it to this Pokemon. Then, shuffle your deck.
+LLL — Static Discharge — 150
+• Discard all energy from this Pokemon. This attack deals 10 damage to each of your opponent’s Pokemon that weren’t attacked.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Raticate</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>CC — Swarming Bites — 40+
+• This attack deals 40 more damage for each Rattata and Raticate on your bench.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Rattata</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Commonplace Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Call For Family — 
+• Search your deck for a Rattata card and put it into your hand. Shuffle your deck afterward.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Sandshrew</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>F</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>FC — Dig — 30
+• Flip a coin. If heads, prevent all damage and effects of attacks from your opponent’s active Pokemon until your next turn.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Sandslash</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>F</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>FFC — Slurry Storm — 40
+• This attack deals 40 damage to each of your opponent’s active Pokemon that wasn’t attacked. Flip two coins. for each heads, choose one of your opponent’s active Pokemon. The selected Pokemon can’t attack until your next turn.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Spearow</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Pecking Spree
+• When you play this Pokemon onto your bench, put 2 damage counter on your opponent’s active Pokemon.
+{C} — Peck — 10
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Venomoth</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{D} — Psybeam — 10
+• You may attach a {D} energy from your hand to this Pokemon.
+DDD — Psychic — 110
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Venonat</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Confusion — 10
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Weedle</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{D} — Poison Sting — 10
+• Flip a coin. If heads, the attacked Pokemon is now poisoned.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Wigglytuff</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Enchanting Rondo
+• Once per turn, you may have your opponent switch one of their benched Pokemon with one of their active Pokemon. If you do, all active Pokemon are now asleep.
+{C} — Subconscious Slap — 50
+• You may use this attack while this Pokemon is asleep.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Zubat</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors></colors>
+        <manacost>D</manacost>
+        <cmc>0</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{D} — Supersonic — 
+• Flip two coins. For each heads, your opponent has one of their active Pokemon become confused.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Blastoise</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Rain Catcher
+• Whenever one of your Pokemon with {W} energy attached attacks, heal 30 damage from it.
+WWW — Water Spout — 140
+Retreat — CCC</text>
+    </card>
+    <card>
+      <name>Golduck</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{W} — Hydro Pump — 90-
+• This attack does 10 less damage for every damage counter on this Pokemon.
+WW — Spiral Drain — 50
+• Heal 30 damage from this Pokemon.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Psyduck</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{W} — Rain Splash — 10
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Squirtle</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Rain Catcher
+• Whenever one of your Pokemon with {W} energy attached attacks, heal 10 damage from it.
+{W} — Rain Splash — 10
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Wartortle</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Rain Dish
+• Whenever one of your Pokemon with {W} energy attached attacks, heal 20 damage from it.
+WW — Rain Blast — 40
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Arcanine</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{R} — Flare — 30
+RR — Raging Fury — 30x
+• Discard any number of {R} energy from this Pokemon. This attack deals 30 damage for each energy discarded in this way.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Charizard</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Solar Power
+• Whenever one of your Pokemon with {R} energy attached attacks, deal 20 damage to your opponent’s active Pokemon.
+RRR — Fire Blast — 120
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Charmander</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>RR — Growing Embers — 10
+• Search your deck for a {R} energy and attach it to one of your {R} Pokemon.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Charmeleon</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Solar Booster
+• Whenever one of your Pokemon with {R} energy attached attacks, deal 10 damage to your opponent’s active Pokemon.
+RR — Flare Tail — 40
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Growlithe</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{R} — Ember — 10
+RR — Flare — 50
+• Discard an energy from this Pokemon.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Ninetales</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{R} — Flamethrower — 30
+• The attacked Pokemon is now burned.
+RR — Flash Flare — 40
+• Search your deck for a {R} energy and attach it to one of your other Pokemon. Then, shuffle your deck.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Vulpix</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{R} — Ember — 10
+• Flip a coin. If heads, the attacked Pokemon is now burned.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Bellossom</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Sunny Day
+• Once during your turn, you may search your deck for a {G} energy, and attach it to one of your Pokemon. Then, shuffle your deck.
+GGC — Pollen Puff — 90-
+You may have this attack deal no damage. If you do, heal 90 damage from one of your Pokemon.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Bulbasaur</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Floral Bud
+• Your Pokemon with {G} energy attached deal 10 more damage to your opponent’s active Pokemon.
+{G} — Vine Whip — 10
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Butterfree</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>GC — Swarming Infestation — 
+• Put 2 damage counters on your opponent’s Pokemon in any way you like for each Caterpie, Metapod, and Butterfree you have in play.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Caterpie</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Commonplace Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{G} — Call For Family — 
+• Search your deck for a Caterpie and put it into your hand. Then, shuffle your deck.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>Gloom</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Stinking Storage — 
+• Once per turn, you may discard a {G} energy from one of your Pokemon. If you do, draw a card
+GGG — Growth — 
+• Search your deck for up to two {G} energy, and attach them to your Pokemon in any way you like. Then, shuffle your deck.
+Retreat — CCC</text>
+    </card>
+    <card>
+      <name>Ivysaur</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Floral Bloom
+• Your Pokemon with {G} energy attached deal 20 more damage to your opponent’s active Pokemon.
+GG — Vine Lash — 40
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Metapod</name>
+      <set rarity="uncommon">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Hard shell
+• This Pokemon takes 20 less damage from attacks.
+{G} — Stun Spore — 20
+• Flip a coin. If heads, the attacked Pokemon is now paralyzed.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Oddish</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{G} — Ingrain — 
+• Search your deck for a {G} energy and put it into your hand. Then, shuffle your deck, and heal 10 damage from this Pokemon.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>Paras</name>
+      <set rarity="common">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{G} — Spore — 
+• Choose an active Pokemon. That Pokemon is now asleep.
+Retreat — CCC</text>
+    </card>
+    <card>
+      <name>Parasect</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>GG — Spore — 
+• Your opponent’s active Pokemon are now asleep.
+GCC — Fungal Beatdown — 50+
+• This attack does 100 more damage if the attacked Pokemon is asleep.
+Retreat — CCCC</text>
+    </card>
+    <card>
+      <name>Venusaur</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Floral Overgrowth
+• Your Pokemon with {G} energy attached deal 30 more damage to your opponent’s active Pokemon.
+GGG — Toxic Spores — 10
+• Pokemon damaged by this attack become poisoned and asleep.
+Retreat — CCC</text>
+    </card>
+    <card>
+      <name>Vileplume</name>
+      <set rarity="rare">PTD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Pokemon</type>
+        <maintype>Pokemon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>AB — Regrowth Acid — 
+• Once per turn, you may discard a {G} energy from one of your Pokemon. If you do, draw two cards, then discard a card.
+GGG — Overgrowth Lunge — 130
+Retreat — CCC</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
